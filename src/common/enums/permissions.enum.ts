@@ -1,0 +1,6 @@
+export enum Permission {
+  CREATE_POST = 'CREATE_POST',
+  EDIT_POST = 'EDIT_POST',
+  DELETE_USER = 'DELETE_USER',
+  VIEW_PROFILE = 'VIEW_PROFILE',
+}
